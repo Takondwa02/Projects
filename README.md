@@ -5,7 +5,7 @@
 ## 1. Solar-Powered Prepaid Water Meter: 
   Added solar power as primary source to battery prepaid meter (batteries for backup), cutting recharging/maintenance costs 
   
-  link to the project:
+  link to the project: https://github.com/Takondwa02/Solar-Powered-Prepaid-water-meter.git
   
 ## 2. Greenhouse IoT Monitoring System: 
   For tracking greenhouse conditions with sensors, storing data automatically, and displaying live updates, daily summaries, and past trends on a web dashboard
